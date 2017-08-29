@@ -3,17 +3,23 @@ body {
 }
 h1 {
 	font-size:200%;
+	font-family= "Palatino"
 	color:brown;
 }
 h2 {
 	font-size:200%;
+	font-family= "Palatino"
 	color:brown;	
 }
 p {
 	font-size:120%;
+	font-family= "Palatino"
 	color:red;
 }
-caption { 
-    display: table-caption;
-    text-align: center;
+figure {
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-size: smaller;
+  border: thin brown solid;
 }
