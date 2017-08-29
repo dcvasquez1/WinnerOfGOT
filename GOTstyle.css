@@ -13,3 +13,7 @@ p {
 	font-size:120%;
 	color:red;
 }
+caption { 
+    display: table-caption;
+    text-align: center;
+}
