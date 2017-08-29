@@ -23,3 +23,9 @@ figure {
   font-size: smaller;
   border: thin brown solid;
 }
+
+img {
+	padding: 25px;
+	border: 25px solid brown;
+	margin: 50px;
+}
